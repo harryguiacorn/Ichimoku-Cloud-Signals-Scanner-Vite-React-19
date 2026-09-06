@@ -1,0 +1,6 @@
+{
+  "name": "Ichimoku Cloud Signals Scanner",
+  "description": "Real-time Ichimoku Cloud and Candlestick Kicker market scanner, personalized stock watchlists, custom alert triggers, and multi-timeframe strength analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
